@@ -1,0 +1,6 @@
+{
+  "name": "kissmy/airpress",
+  "description": "Airpress is a Wordpress plugin that integrates Airtable with Wordpress, allowing you to use Airtable data the way you want.",
+  "type": "wordpress-plugin",
+  "version": "1.1.55"
+}
